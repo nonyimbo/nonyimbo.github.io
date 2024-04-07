@@ -1,0 +1,11 @@
+body {
+  box-sizing: border-box;
+  background-color: silver;
+}
+
+h1 {
+  font-family: Helvetica;
+  color: aqua;
+  background-color: black;
+  text-align: center;
+}
